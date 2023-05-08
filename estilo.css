@@ -1,0 +1,9 @@
+body{
+    background-image: linear-gradient(to left,blue, rgb(250, 20, 193));
+}
+
+#msgData{
+    color: deepskyblue;
+    font-size: 20px;
+    text-align: center;
+}
